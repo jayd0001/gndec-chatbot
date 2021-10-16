@@ -19,13 +19,13 @@ Pint
 plac
 preshed
 pymongo
-python-dateutil
+python-dateutil==2.7.5
 pytz
-PyYAML
+PyYAML==3.13
 requests
 six
-spacy
-SQLAlchemy
+spacy==2.1.9
+SQLAlchemy==1.2.19
 srsly
 thinc
 tqdm

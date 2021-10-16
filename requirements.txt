@@ -13,6 +13,7 @@ MarkupSafe
 mathparse
 murmurhash
 nltk
+Corpora
 numpy
 Pint
 plac
